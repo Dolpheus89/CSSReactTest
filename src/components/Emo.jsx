@@ -32,7 +32,7 @@ const ContainerStyle = styled.div`
 const AlbumImg = styled.img`
   height: 130px;
   width: 130px;
-  background: url("src/assets/rozes.jpg");
+  background: url(src/assets/rozes.jpg);
   background-size: cover;
   border-radius: 5px 0 0 0;
 `;
