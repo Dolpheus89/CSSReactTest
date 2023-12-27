@@ -1,8 +1,7 @@
-# React + Vite
+# Le CSS dans React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+j'ai essayé les trois solutions ( Sass , Emotion et Styled components)
 
-Currently, two official plugins are available:
+A voir sur de grand projet , mais c'est une grande perte de vitesse pour Emotion et Styled ( auto completion inactive )
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+c'etait drole à reproduire , j'ai pu tester de nouvelles choses .
