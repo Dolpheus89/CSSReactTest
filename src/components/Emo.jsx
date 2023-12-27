@@ -1,6 +1,7 @@
 /** @jsxImportSource @emotion/react */
 import { jsx, css } from '@emotion/react';
 import styled from '@emotion/styled';
+import Album1 from '../assets/rozes.jpg'
 
 const titleStyle = css`
   font-weight: 100;
@@ -32,7 +33,7 @@ const ContainerStyle = styled.div`
 const AlbumImg = styled.img`
   height: 130px;
   width: 130px;
-  background: url(src/assets/rozes.jpg);
+  background-image: url(${Album1});
   background-size: cover;
   border-radius: 5px 0 0 0;
 `;
